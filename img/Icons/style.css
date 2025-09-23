@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?3x7n1v');
+  src:  url('fonts/icomoon.eot?3x7n1v#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?3x7n1v') format('truetype'),
+    url('fonts/icomoon.woff?3x7n1v') format('woff'),
+    url('fonts/icomoon.svg?3x7n1v#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-account_circle:before {
+  content: "\e900";
+  color: #000000;
+}
+.icon-arrow_forward_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24:before {
+  content: "\e901";
+  color: #000000;
+}
+.icon-local_shipping_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24:before {
+  content: "\e902";
+  color: #000000;
+}
+.icon-orders_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24:before {
+  content: "\e903";
+  color: #000000;
+}
+.icon-shopping_cart_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24:before {
+  content: "\e904";
+  color: #000000;
+}
+.icon-workspace_premium_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24:before {
+  content: "\e905";
+  color: #000000;
+}
+.icon-x:before {
+  content: "\e906";
+}
+.icon-twitter:before {
+  content: "\e906";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
